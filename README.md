@@ -1,4 +1,4 @@
 # demoRepo
 Demo first repository
 <br>
-Author - krish
+Author - krish patil 
